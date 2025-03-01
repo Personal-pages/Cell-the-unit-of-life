@@ -1,1004 +1,452 @@
 [
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Who discovered the cell and when?",
-      "options": [
-        "Robert Hooke, 1665",
-        "Schleiden and Schwann, 1838",
-        "Antonie van Leeuwenhoek, 1674",
-        "Robert Brown, 1831"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Which organelle is known as the 'powerhouse of the cell'?",
-      "options": [
-        "Golgi apparatus",
-        "Mitochondria",
-        "Ribosome",
-        "Lysosome"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of ribosomes?",
-      "options": [
-        "Lipid synthesis",
-        "Protein synthesis",
-        "Carbohydrate metabolism",
-        "DNA replication"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which type of cell lacks a nuclear membrane?",
-      "options": [
-        "Eukaryotic cell",
-        "Prokaryotic cell",
-        "Plant cell",
-        "Animal cell"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is responsible for photosynthesis?",
-      "options": [
-        "Mitochondria",
-        "Chloroplast",
-        "Ribosome",
-        "Golgi apparatus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the primary component of the cell membrane?",
-      "options": [
-        "Cellulose",
-        "Phospholipid bilayer",
-        "Chitin",
-        "Peptidoglycan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which scientist gave the cell theory?",
-      "options": [
-        "Robert Brown",
-        "Schleiden and Schwann",
-        "Virchow",
-        "Robert Hooke"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle contains hydrolytic enzymes?",
-      "options": [
-        "Golgi apparatus",
-        "Lysosome",
-        "Mitochondria",
-        "Nucleus"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Which organelle is involved in the formation of lysosomes?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi apparatus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "What is the function of smooth endoplasmic reticulum?",
-      "options": [
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication",
-        "ATP production"
-      ],
-      "correct": 1
-    }
-  ]
-
-
+  {
+    "question_no": 1,
+    "question": "Who discovered the cell?",
+    "options": ["Robert Hooke", "Antonie van Leeuwenhoek", "Schleiden and Schwann", "Rudolf Virchow"],
+    "answer": "Robert Hooke"
+  },
+  {
+    "question_no": 2,
+    "question": "Which of the following is a prokaryotic cell?",
+    "options": ["Amoeba", "Bacteria", "Fungus", "Plant cell"],
+    "answer": "Bacteria"
+  },
+  {
+    "question_no": 3,
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Nucleus", "Golgi apparatus", "Mitochondria", "Lysosome"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 4,
+    "question": "Which of the following is absent in a prokaryotic cell?",
+    "options": ["Plasma membrane", "DNA", "Nucleus", "Ribosome"],
+    "answer": "Nucleus"
+  },
+  {
+    "question_no": 5,
+    "question": "Which structure controls the entry and exit of substances in a cell?",
+    "options": ["Nucleus", "Plasma membrane", "Mitochondria", "Endoplasmic reticulum"],
+    "answer": "Plasma membrane"
+  },
+  {
+    "question_no": 6,
+    "question": "Which organelle is responsible for photosynthesis?",
+    "options": ["Mitochondria", "Chloroplast", "Golgi apparatus", "Lysosome"],
+    "answer": "Chloroplast"
+  },
+  {
+    "question_no": 7,
+    "question": "What is the main function of ribosomes?",
+    "options": ["Lipid synthesis", "Protein synthesis", "ATP production", "DNA replication"],
+    "answer": "Protein synthesis"
+  },
+  {
+    "question_no": 8,
+    "question": "Which of the following is not a component of the cell membrane?",
+    "options": ["Phospholipids", "Proteins", "Cholesterol", "Cellulose"],
+    "answer": "Cellulose"
+  },
+  {
+    "question_no": 9,
+    "question": "What is the function of the Golgi apparatus?",
+    "options": ["Protein synthesis", "Packaging and modification of proteins", "ATP production", "Photosynthesis"],
+    "answer": "Packaging and modification of proteins"
+  },
+  {
+    "question_no": 10,
+    "question": "Which cell organelle is responsible for intracellular digestion?",
+    "options": ["Golgi apparatus", "Lysosome", "Mitochondria", "Endoplasmic reticulum"],
+    "answer": "Lysosome"
+  },
+  {
+    "question_no": 11,
+    "question": "Which cell organelle helps in the detoxification of harmful substances?",
+    "options": ["Rough ER", "Smooth ER", "Golgi apparatus", "Lysosome"],
+    "answer": "Smooth ER"
+  },
+  {
+    "question_no": 12,
+    "question": "Which type of ribosomes are found in prokaryotic cells?",
+    "options": ["70S", "80S", "90S", "100S"],
+    "answer": "70S"
+  },
+  {
+    "question_no": 13,
+    "question": "What is the genetic material in most prokaryotic cells?",
+    "options": ["DNA", "RNA", "Protein", "Lipid"],
+    "answer": "DNA"
+  },
+  {
+    "question_no": 14,
+    "question": "Which part of the mitochondrion contains enzymes for ATP production?",
+    "options": ["Outer membrane", "Inner membrane", "Matrix", "Cristae"],
+    "answer": "Cristae"
+  },
+  {
+    "question_no": 15,
+    "question": "What is the full form of ER?",
+    "options": ["Endoplasmic Reticulum", "Endocrine Reticulum", "Energy Reticulum", "Enzyme Reticulum"],
+    "answer": "Endoplasmic Reticulum"
+  },
+  {
+    "question_no": 16,
+    "question": "Which of the following structures are found only in plant cells?",
+    "options": ["Mitochondria", "Ribosomes", "Centrosome", "Plastids"],
+    "answer": "Plastids"
+  },
+  {
+    "question_no": 17,
+    "question": "Which cell organelle is called the 'suicidal bag'?",
+    "options": ["Nucleus", "Lysosome", "Golgi apparatus", "Ribosome"],
+    "answer": "Lysosome"
+  },
+  {
+    "question_no": 18,
+    "question": "Which cell organelle is involved in lipid synthesis?",
+    "options": ["Smooth ER", "Rough ER", "Ribosome", "Mitochondria"],
+    "answer": "Smooth ER"
+  },
+  {
+    "question_no": 19,
+    "question": "Which part of the nucleus contains DNA?",
+    "options": ["Nucleolus", "Chromatin", "Nuclear envelope", "Nuclear pores"],
+    "answer": "Chromatin"
+  },
+  {
+    "question_no": 20,
+    "question": "Which organelle is responsible for the synthesis of ribosomal RNA?",
+    "options": ["Mitochondria", "Nucleolus", "Rough ER", "Golgi apparatus"],
+    "answer": "Nucleolus"
+  },
+  {
+    "question_no": 21,
+    "question": "Which of the following is a double-membrane-bound organelle?",
+    "options": ["Ribosome", "Lysosome", "Mitochondria", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 22,
+    "question": "Which component of the cytoskeleton helps in cell division?",
+    "options": ["Microtubules", "Microfilaments", "Intermediate filaments", "Plasmodesmata"],
+    "answer": "Microtubules"
+  },
+  {
+    "question_no": 23,
+    "question": "Which structure helps in the movement of a cell?",
+    "options": ["Lysosome", "Flagella", "Nucleolus", "Plasmodesmata"],
+    "answer": "Flagella"
+  },
+  {
+    "question_no": 24,
+    "question": "Which part of the chloroplast contains chlorophyll?",
+    "options": ["Stroma", "Thylakoid membrane", "Outer membrane", "Inner membrane"],
+    "answer": "Thylakoid membrane"
+  },
+  {
+    "question_no": 25,
+    "question": "Which scientist proposed the cell theory?",
+    "options": ["Robert Hooke", "Schleiden and Schwann", "Rudolf Virchow", "Antonie van Leeuwenhoek"],
+    "answer": "Schleiden and Schwann"
+  },
+  {
+    "question_no": 26,
+    "question": "Which organelle is responsible for packaging and secretion of proteins?",
+    "options": ["Mitochondria", "Golgi apparatus", "Ribosome", "Lysosome"],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "question_no": 27,
+    "question": "Which cell organelle is involved in cell respiration?",
+    "options": ["Ribosome", "Mitochondria", "Chloroplast", "Lysosome"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 28,
+    "question": "The cell membrane is primarily composed of which molecules?",
+    "options": ["Proteins and carbohydrates", "Lipids and proteins", "Nucleic acids and lipids", "Carbohydrates and nucleic acids"],
+    "answer": "Lipids and proteins"
+  },
+  {
+    "question_no": 29,
+    "question": "Which organelle plays a role in the synthesis of secretory proteins?",
+    "options": ["Smooth ER", "Rough ER", "Golgi apparatus", "Lysosome"],
+    "answer": "Rough ER"
+  },
+  {
+    "question_no": 30,
+    "question": "Which type of plastid is responsible for storing starch?",
+    "options": ["Chromoplast", "Chloroplast", "Leucoplast", "Amyloplast"],
+    "answer": "Amyloplast"
+  },
+  {
+    "question_no": 31,
+    "question": "The nuclear envelope is continuous with which organelle?",
+    "options": ["Mitochondria", "Endoplasmic reticulum", "Golgi apparatus", "Lysosome"],
+    "answer": "Endoplasmic reticulum"
+  },
+  {
+    "question_no": 32,
+    "question": "What is the function of peroxisomes?",
+    "options": ["Protein synthesis", "ATP production", "Detoxification and lipid metabolism", "Carbohydrate synthesis"],
+    "answer": "Detoxification and lipid metabolism"
+  },
+  {
+    "question_no": 33,
+    "question": "Which component provides mechanical support to the cell?",
+    "options": ["Mitochondria", "Cytoskeleton", "Golgi apparatus", "Lysosome"],
+    "answer": "Cytoskeleton"
+  },
+  {
+    "question_no": 34,
+    "question": "Which plant cell organelle stores water, nutrients, and waste products?",
+    "options": ["Chloroplast", "Vacuole", "Nucleus", "Ribosome"],
+    "answer": "Vacuole"
+  },
+  {
+    "question_no": 35,
+    "question": "Which organelle is responsible for the synthesis of steroid hormones?",
+    "options": ["Rough ER", "Smooth ER", "Golgi apparatus", "Lysosome"],
+    "answer": "Smooth ER"
+  },
+  {
+    "question_no": 36,
+    "question": "Which theory explains the origin of mitochondria and chloroplasts?",
+    "options": ["Endosymbiotic theory", "Cell theory", "Gene theory", "Fluid mosaic model"],
+    "answer": "Endosymbiotic theory"
+  },
+  {
+    "question_no": 37,
+    "question": "Which component of the cytoskeleton forms cilia and flagella?",
+    "options": ["Microfilaments", "Microtubules", "Intermediate filaments", "Actin filaments"],
+    "answer": "Microtubules"
+  },
+  {
+    "question_no": 38,
+    "question": "Which cell junction allows communication between adjacent animal cells?",
+    "options": ["Tight junctions", "Desmosomes", "Gap junctions", "Plasmodesmata"],
+    "answer": "Gap junctions"
+  },
+  {
+    "question_no": 39,
+    "question": "Which enzyme is responsible for breaking down hydrogen peroxide in peroxisomes?",
+    "options": ["Catalase", "Amylase", "Lipase", "Pepsin"],
+    "answer": "Catalase"
+  },
+  {
+    "question_no": 40,
+    "question": "Which type of RNA is synthesized in the nucleolus?",
+    "options": ["mRNA", "tRNA", "rRNA", "snRNA"],
+    "answer": "rRNA"
+  },
+  {
+    "question_no": 41,
+    "question": "Which plant cell organelle contains pigments other than chlorophyll?",
+    "options": ["Leucoplast", "Chloroplast", "Chromoplast", "Amyloplast"],
+    "answer": "Chromoplast"
+  },
+  {
+    "question_no": 42,
+    "question": "Which cell structure is absent in animal cells but present in plant cells?",
+    "options": ["Mitochondria", "Ribosomes", "Plastids", "Lysosomes"],
+    "answer": "Plastids"
+  },
+  {
+    "question_no": 43,
+    "question": "Which molecule forms the bilayer of the plasma membrane?",
+    "options": ["Proteins", "Carbohydrates", "Phospholipids", "Cholesterol"],
+    "answer": "Phospholipids"
+  },
+  {
+    "question_no": 44,
+    "question": "Which organelle helps in the breakdown of fatty acids?",
+    "options": ["Lysosome", "Peroxisome", "Golgi apparatus", "Mitochondria"],
+    "answer": "Peroxisome"
+  },
+  {
+    "question_no": 45,
+    "question": "Which organelle has its own DNA and ribosomes?",
+    "options": ["Endoplasmic reticulum", "Mitochondria", "Lysosome", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 46,
+    "question": "Which is the largest organelle in a plant cell?",
+    "options": ["Nucleus", "Vacuole", "Mitochondria", "Chloroplast"],
+    "answer": "Vacuole"
+  },
+  {
+    "question_no": 47,
+    "question": "Which part of the chloroplast contains the enzymes for the light-dependent reaction?",
+    "options": ["Stroma", "Thylakoid membrane", "Outer membrane", "Inner membrane"],
+    "answer": "Thylakoid membrane"
+  },
+  {
+    "question_no": 48,
+    "question": "Which type of RNA carries amino acids during protein synthesis?",
+    "options": ["mRNA", "rRNA", "tRNA", "snRNA"],
+    "answer": "tRNA"
+  },
+  {
+    "question_no": 49,
+    "question": "Which scientist proposed the concept of cell theory?",
+    "options": ["Robert Hooke", "Schleiden and Schwann", "Virchow", "Leeuwenhoek"],
+    "answer": "Schleiden and Schwann"
+  },
+  {
+    "question_no": 50,
+    "question": "Which component of the cell membrane is responsible for cell recognition?",
+    "options": ["Proteins", "Phospholipids", "Carbohydrates", "Cholesterol"],
+    "answer": "Carbohydrates"
+  },
+  {
+    "question_no": 51,
+    "question": "Which cell organelle is involved in apoptosis (programmed cell death)?",
+    "options": ["Mitochondria", "Lysosome", "Golgi apparatus", "Nucleus"],
+    "answer": "Lysosome"
+  },
+  {
+    "question_no": 52,
+    "question": "Which organelle is responsible for maintaining osmotic balance in a cell?",
+    "options": ["Golgi apparatus", "Endoplasmic reticulum", "Vacuole", "Peroxisome"],
+    "answer": "Vacuole"
+  },
+  {
+    "question_no": 53,
+    "question": "Which type of endoplasmic reticulum is involved in detoxification of drugs?",
+    "options": ["Rough ER", "Smooth ER", "Golgi apparatus", "Lysosome"],
+    "answer": "Smooth ER"
+  },
+  {
+    "question_no": 54,
+    "question": "What is the main function of the nucleolus?",
+    "options": ["Lipid synthesis", "Ribosome production", "DNA replication", "Protein synthesis"],
+    "answer": "Ribosome production"
+  },
+  {
+    "question_no": 55,
+    "question": "Which of the following structures provides mechanical support to the cell?",
+    "options": ["Ribosomes", "Microtubules", "Lysosomes", "Endoplasmic reticulum"],
+    "answer": "Microtubules"
+  },
+  {
+    "question_no": 56,
+    "question": "Which part of the cell synthesizes ATP?",
+    "options": ["Nucleus", "Mitochondria", "Ribosomes", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 57,
+    "question": "Which structure is responsible for the movement of chromosomes during cell division?",
+    "options": ["Nucleolus", "Centrosome", "Golgi apparatus", "Endoplasmic reticulum"],
+    "answer": "Centrosome"
+  },
+  {
+    "question_no": 58,
+    "question": "Which component of the plasma membrane helps in cell recognition?",
+    "options": ["Phospholipids", "Proteins", "Carbohydrates", "Cholesterol"],
+    "answer": "Carbohydrates"
+  },
+  {
+    "question_no": 59,
+    "question": "Which organelle is absent in red blood cells?",
+    "options": ["Nucleus", "Ribosomes", "Mitochondria", "Lysosomes"],
+    "answer": "Nucleus"
+  },
+  {
+    "question_no": 60,
+    "question": "Which cell structure is responsible for cytokinesis in animal cells?",
+    "options": ["Cell wall", "Cleavage furrow", "Spindle fibers", "Plasma membrane"],
+    "answer": "Cleavage furrow"
+  },
+  {
+    "question_no": 61,
+    "question": "Which organelle is responsible for forming lysosomes?",
+    "options": ["Endoplasmic reticulum", "Golgi apparatus", "Mitochondria", "Nucleolus"],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "question_no": 62,
+    "question": "What is the function of the contractile vacuole in unicellular organisms?",
+    "options": ["Protein synthesis", "Osmoregulation", "ATP production", "DNA replication"],
+    "answer": "Osmoregulation"
+  },
+  {
+    "question_no": 63,
+    "question": "Which of the following is not a function of the plasma membrane?",
+    "options": ["Selective permeability", "Energy production", "Cell signaling", "Transport of molecules"],
+    "answer": "Energy production"
+  },
+  {
+    "question_no": 64,
+    "question": "What is the function of chromatin?",
+    "options": ["Protein synthesis", "Genetic information storage", "ATP production", "Cell division"],
+    "answer": "Genetic information storage"
+  },
+  {
+    "question_no": 65,
+    "question": "Which of the following is a semi-autonomous organelle?",
+    "options": ["Ribosome", "Lysosome", "Mitochondria", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question_no": 66,
+    "question": "Which cell organelle is involved in glycoprotein synthesis?",
+    "options": ["Mitochondria", "Golgi apparatus", "Ribosomes", "Lysosomes"],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "question_no": 67,
+    "question": "Which of the following is a function of the smooth endoplasmic reticulum?",
+    "options": ["Protein synthesis", "Lipid synthesis", "DNA replication", "ATP production"],
+    "answer": "Lipid synthesis"
+  },
+  {
+    "question_no": 68,
+    "question": "Which part of the mitochondria contains enzymes for the Krebs cycle?",
+    "options": ["Outer membrane", "Inner membrane", "Matrix", "Cristae"],
+    "answer": "Matrix"
+  },
+  {
+    "question_no": 69,
+    "question": "Which plant cell structure prevents bursting in a hypotonic solution?",
+    "options": ["Plasma membrane", "Nucleus", "Cell wall", "Vacuole"],
+    "answer": "Cell wall"
+  },
+  {
+    "question_no": 70,
+    "question": "Which organelle sorts and modifies proteins before they are secreted?",
+    "options": ["Endoplasmic reticulum", "Golgi apparatus", "Mitochondria", "Nucleolus"],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "question_no": 71,
+    "question": "Which protein component of the cytoskeleton is responsible for cell movement?",
+    "options": ["Microfilaments", "Microtubules", "Intermediate filaments", "Actin filaments"],
+    "answer": "Actin filaments"
+  },
+  {
+    "question_no": 72,
+    "question": "Which part of the mitochondria is responsible for oxidative phosphorylation?",
+    "options": ["Outer membrane", "Inner membrane", "Matrix", "Cristae"],
+    "answer": "Inner membrane"
+  },
+  {
+    "question_no": 73,
+    "question": "Which process occurs in ribosomes?",
+    "options": ["DNA replication", "Protein synthesis", "Lipid synthesis", "ATP production"],
+    "answer": "Protein synthesis"
+  },
+  {
+    "question_no": 74,
+    "question": "Which part of the cell helps in maintaining its shape and structure?",
+    "options": ["Ribosomes", "Cytoskeleton", "Nucleus", "Mitochondria"],
+    "answer": "Cytoskeleton"
+  },
+  {
+    "question_no": 75,
+    "question": "Which organelle is known as the ‘digestive system’ of the cell?",
+    "options": ["Golgi apparatus", "Lysosome", "Mitochondria", "Ribosomes"],
+    "answer": "Lysosome"
+  }
+]
